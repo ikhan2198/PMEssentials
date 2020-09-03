@@ -20,7 +20,7 @@ use pocketmine\utils\TextFormat;
 
 class Main extends PluginBase{
 
-    public const PERMISSION_PREFIX = "pmessentials.";
+    public const PERMISSION_PREFIX = "essential.";
 
     /** @var API */
     public $api;
